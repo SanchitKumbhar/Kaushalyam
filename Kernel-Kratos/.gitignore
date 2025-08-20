@@ -1,0 +1,28 @@
+# Ignore compiled object files
+*.o
+
+# Ignore compiled binaries / executables
+*.out
+*.exe
+
+# Ignore dependency and build files
+*.d
+*.dep
+
+# Ignore libraries
+*.a
+*.so
+*.dll
+
+# Ignore core dumps (from crashes)
+core
+
+# Ignore make clean leftovers
+*.log
+
+# VS Code specific
+.vscode/
+
+# Backup/swap files (sometimes created by editors)
+*~
+*.swp
