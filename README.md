@@ -53,19 +53,3 @@ Please follow these simple rules to keep the repository clean and collaborative:
 
     Let’s build and learn together 💻✨
 
- ## fork-push-testing branch
-
-    This branch is for testing fork-push for *first time* only.  
-    Contributors should make new branch for further projects. 
-
-    TO add projects to this branch :-
- 
-    1. Fork this repo.
-    2. Switch to the `fork-push-testing` branch. 
-    3. Add your project folder. 
-    4. Update the README. 
-    5. Push the modified branch to your fork. 
-    6. Create a Pull Request targeting `fork-push-testing`.
-    Currently, branch has :-
-
-    -`Kernel-Kratos/Hello.c` : simple C program for testing.
